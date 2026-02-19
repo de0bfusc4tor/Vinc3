@@ -1,4 +1,4 @@
-# Vinc3 — Precision DSP Analysis 🔊📊
+# Vinc3 — Pro DSP Analysis 🔊📊
 
 > Audio Visual Analysis for Music Production.
 
