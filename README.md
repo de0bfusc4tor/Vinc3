@@ -90,7 +90,7 @@ Built and tested for the modern macOS ecosystem:
 
 ## 🧪 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
 
-- Sonspor / Benefactor : Vincent P.
+- Sponsor / Benefactor : Vincent P.
 - Development / Creation : [De0bfusc4te](https://github.com/de0bfusc4tor)
 
 ---
