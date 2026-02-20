@@ -3,7 +3,6 @@
 > Audio Visual Analysis for Music Production.
 
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma_|_Sequoia_|_Tahoe-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Platform](https://img.shields.io/badge/Native-Offline_Local-green?style=for-the-badge)
 
 **Vinc3** is an high-fidelity audio analysis workstation engineered for professionals who demand precision, performance, and aesthetic clarity. Designed as a **Native Offline Application**, it leverages a 64-bit floating-point DSP core to provide real-time telemetry of complex audio signals without any external dependencies or latency-inducing server processing.
 
