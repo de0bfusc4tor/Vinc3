@@ -9,25 +9,24 @@
 
 ---
 
-https://github.com/user-attachments/assets/aef159c1-6010-41ce-be60-e8a10853418d
-
+<img width="1439" height="685" alt="Vinc3demo2" src="https://github.com/user-attachments/assets/fce47b5b-dedd-4e68-b78d-c669a758fe11" />
 
 ---
 
 ## 🛰 Core Analysis Modules
 
-### 1. Spectrum Pro X (Frequency Precision)
+### 1. Spectrum_V (Frequency Precision)
 A surgical FFT analyzer using a pixel-exact inverse-logarithmic frequency sweep.
 *   **Gapless Trace**: Perfectly continuous graph from 20Hz to 20kHz.
 *   **Fundamental Tracker**: Real-time HUD showing the dominant frequency with musical note/octave detection.
 *   **Dual-View Engine**: Switch between high-density FFT curves and 64-band bar visualization.
 
-### 2. Ridge Spectrogram & Waterfall 3D (Temporal History)
+### 2. Spectrogram_V (Temporal History)
 Visualizes spectral evolution over time in a 3D space.
 *   **Waterfall 3D**: Features a true descending perspective projection where new data emerges from a receding horizon and flows toward the viewer.
 *   **Ridge Mode**: Classical overlapping spectral ridges with time-decay luminosity.
 
-### 3. FFT Sniper (Tactical Tracking)
+### 3. FFT Meter (Tactical Tracking)
 Designed for identifying resonant peaks with military precision.
 *   **Laser Crosshair**: Automatically locks onto the highest energy peak.
 *   **Telemetry HUD**: Provides instantaneous Hz and dB readouts with high-contrast razor outlines.
