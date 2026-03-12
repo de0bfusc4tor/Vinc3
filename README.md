@@ -1,4 +1,4 @@
-# Vinc3 - Pro DSP Analysis
+# 𝐕𝐢𝐧𝐜𝟑 - 𝐏𝐫𝐨 𝐃𝐒𝐏 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
 
 > _Precision Audio Visual Analysis for music production. Offline application, that leverages a 64-bit floating-point DSP core to provide real-time telemetry of complex audio signals without any external dependencies or latency-inducing server processing._
 
