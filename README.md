@@ -16,6 +16,7 @@
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 - **3D Engine**: Three-dimensional audio spectrogram engine.
+- **Metering Modules**: High Precision monitoring suite.
 - **Standalone**: Runs as a native application on macOS (Sonoma, Sequoia, Tahoe) without a browser.
 - **Zero Dependencies**: Fully offline capable. No internet connection required.
 - **Minimalist UI**: Dark-themed, high-contrast interface optimized for low-light studio environments.
