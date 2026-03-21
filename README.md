@@ -35,9 +35,9 @@ https://github.com/user-attachments/assets/8661320d-6327-4248-b481-d29fa9a212b6
 ## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
 ### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
-1. Download the latest [`VINC3.app.zip`](#).
+1. Download the latest `VINC3.app.zip`.
 2. Extract & Drag to your `Applications` folder.
-3. **Note**: Follow the [macOS Permission Guide](#macos-permissions) below for first-time setup.
+3. **Note**: Follow the macOS Permissions tutorial below for first-time setup.
 
 ---
 
