@@ -1,6 +1,6 @@
 # 𝐕𝐈𝐍𝐂𝟑 - 𝐃𝐒𝐏 𝐀𝐮𝐝𝐢𝐨 𝐀𝐧𝐚𝐥𝐲𝐳𝐞𝐫
 
-> _3D Spectral Analysis & DSP Metering Suite. 3D frequency visualization and precision audio monitoring in a minimalist interface._
+> _3D Spectral Analysis & DSP Metering Suite. Frequency visualization and precision audio monitoring in a minimalist interface._
 
 ![Version](https://img.shields.io/badge/Version-0.9.9-green?style=flat-square)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
