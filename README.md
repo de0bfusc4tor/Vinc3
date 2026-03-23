@@ -89,7 +89,7 @@ Required for **System Audio Loopback** (capturing audio from other softwares).
 
 ## 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
 
-- **Sponsor/Benefactor**: Vincent P.
+- **Sponsor / Benefactor**: Vincent P.
 
 ---
 
