@@ -53,7 +53,7 @@
 
 1. Download the latest [`VINC3.app.zip`](https://github.com/DeobfuscateMusic/VINC3/releases/download/VINC3-0.9.9/VINC3.app.zip)
 2. Extract & Drag `VINC3` to your `Applications` folder.
-- _Note : Follow the macOS Permissions tutorial below for first-time setup, before use._
+- _Note : Follow the macOS Permissions tutorial below for first-time setup, before use and before applying step 3._
 3. Select your audio source `MIC` or `SYSTEM`
 4. Click on `INITIALIZE`. It will start the engine.
 
