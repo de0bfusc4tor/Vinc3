@@ -93,8 +93,7 @@ Required for **System Audio Loopback** (capturing audio from other softwares).
 
 ---
 
-_This software is free. Don't forget to give it a ⭐ on Github if you liked the project._
-
+_ VINC3 was released 20.03.2026, technically making it the first ever working Audio Analyzer on macOS Tahoe. This software is free. Don't forget to give it a ⭐ on Github if you liked the project._
 ---
 
 <p align="center"><code>𝕯𝖊𝖔𝖇𝖋𝖚𝖘𝖈𝖆𝖙𝖊</code></p>
