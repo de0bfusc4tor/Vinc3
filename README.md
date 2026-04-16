@@ -97,5 +97,6 @@ _VINC3 was released 20.03.2026, technically making it the first ever working Aud
 
 ---
 
+<p align="center"><img width="227" height="198" alt="Logo Samurai Horse Round Small" src="https://github.com/user-attachments/assets/df9fbfee-61c7-4456-9d52-de71a2e504cf" /></p>
 <p align="center"><code>𝕯𝖊𝖔𝖇𝖋𝖚𝖘𝖈𝖆𝖙𝖊</code></p>
 <p align="center">2026</p>
