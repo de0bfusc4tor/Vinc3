@@ -86,6 +86,8 @@ Required for **System Audio Loopback** (capturing audio from other softwares).
 | **Software Scaling** | Select the window borders to resize or move the `VINC3` window. |
 | **Module Scaling** | Drag the bottom-right corner to resize; hold `Left Click` to move. |
 
+- _Note : To achieve the layout in the preview you will have to resize and move the modules windows. You can also create your own._
+
 ---
 
 ## 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
