@@ -11,7 +11,7 @@
 
 ---
 
-<img width="1440" height="868" alt="VINC3 preview" src="https://github.com/user-attachments/assets/a0fbe069-f453-4489-9bcb-75d41733888b" />
+https://github.com/user-attachments/assets/7ab03f56-2037-4e66-9a67-ac912e6d3599
 
 ---
 
