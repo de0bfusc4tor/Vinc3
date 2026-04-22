@@ -26,19 +26,15 @@ https://github.com/user-attachments/assets/7ab03f56-2037-4e66-9a67-ac912e6d3599
 ---
 
 ## 𝐌𝐨𝐝𝐮𝐥𝐞𝐬
-- **Spectrogram**: Three-dimensional view of your audio's spectral energy. Four Modes available. **Sphere** (radial energy core), **Wave** (terrain landscape), **Cube** (geometric structure) and **Terminal** (binary waterfall).
-
-- **FFT Meter**: HD Fast Fourier Transform analyzer for surgical frequency monitoring. Incorporated Peak Tracking with automatic peak detection and labeling of the most prominent frequencies. Logarithmic Scaling with detailed response from 20Hz to 20kHz with high-DPI grid rendering.
-
-- **Level Meters**: Industry-standard monitoring to ensure loudness compliance with real-time tracking of Momentary (M), Short-term (S), and Integrated (I) LUFS. Accurate dBFS monitoring with persistent "Max Peak" hold. Crest Factor trigger visualizes the peak-to-RMS ratio; indicators turn **Vibrant Red** when audio is heavily limited (< 6dB) or exceeding safety thresholds (-3dB).
-
-- **Analog VU Meter**: Classic hardware inspired ballistic response for monitoring signal "weight". Ballistics design with standard 300ms integration time mimics physical studio gear. Hot Zone trigger with ticks and needles that turns red above 0dB to signal saturation levels.
-
-- **Oscilloscope**: Real-time linear oscilloscope visualization with Left & Right for stereo image monitoring.
-
-- **Stereo Monitor**: Stable _Zero-Crossing_ trigger. Phase and Width monitoring with phase correlation and the balance between Mid/Side information to ensure mono compatibility.
-
-- **Linear Spectrogram**: A scrolling logarithmic history of frequency energy flowing from Left to Right. Monitors long-term resonances and spectral imbalances over a continuous timeline.
+| Module | Description | Features |
+| :--- | :--- | :--- |
+| **Spectrogram** | 3D spectral energy visualization. | **Sphere**, **Wave**, **Cube** & **Terminal** modes. |
+| **FFT Meter** | Surgical frequency monitoring via HD FFT. | Peak tracking, auto-labeling & Logarithmic scaling (20Hz-20kHz). |
+| **Level Meters** | Industry-standard loudness compliance. | Real-time M/S/I LUFS, dBFS tracking & Crest Factor alerts. |
+| **Analog VU** | Classic hardware-inspired ballistics. | 300ms integration time & Hot Zone saturation indicators. |
+| **Oscilloscope** | Real-time linear waveform visualization. | Dual-channel (L/R) stereo image monitoring. |
+| **Stereo Monitor** | Phase and width analysis. | Zero-crossing trigger, Phase Correlation & Mid/Side balance. |
+| **Linear Spec** | Scrolling frequency energy history. | Logarithmic timeline for detecting long-term resonances. |
 
 ---
 
@@ -80,13 +76,15 @@ Required for **System Audio Loopback** (capturing audio from other softwares).
 
 ## 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐬
 
-- **MIC**: Audio source from your Microphone.
-- **SYSTEM**: Audio source from your System.
-- **INITIALIZE**: Initialize the engine with your selected audio source.
-- **Resizable & mobile software**: Select the borders to resize or move `VINC3` window
-- **Resizable & mobile modules**: Select the bottom right of the module to resize it. Hold `Left Click` to move the module.
-- **Reset**: Revert the modules positions to default.
-- **STOP**: Stop the engine.
+| Control | Description |
+| :--- | :--- |
+| **MIC** | Set audio source to your Microphone. |
+| **SYSTEM** | Set audio source to your System audio. |
+| **INITIALIZE** | Boot the engine using the selected audio source. |
+| **STOP** | Terminate the engine and all active processing. |
+| **RESET** | Revert all modules to their default factory positions. |
+| **Software Scaling** | Select the window borders to resize or move the `VINC3` window. |
+| **Module Scaling** | Drag the bottom-right corner to resize; hold `Left Click` to move. |
 
 ---
 
