@@ -1,15 +1,17 @@
-# 𝐕𝐈𝐍𝐂𝟑
+<p align="center"><img width="355" height="139" alt="VINC3_Banner" src="https://github.com/user-attachments/assets/73fdd804-39a1-4f99-a755-65c8733fd34f" /></p>
 
-> _3D Spectral Analysis & DSP Metering Suite. Frequency visualization and precision audio monitoring._
-
-![Version](https://img.shields.io/badge/Version-0.9.9-brightgreen?style=flat-square)
-![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
-![Architecture](https://img.shields.io/badge/Architecture-Universal%20Silicon%20%26%20Intel-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
-![Format](https://img.shields.io/badge/Format-Standalone-00CED1?style=flat-square)
+ _<p align="center">3D Spectral Analysis & DSP Metering Suite. Frequency visualization and precision audio monitoring._</p>
 
 ---
 
-<img width="1440" height="867" alt="VINC3preview" src="https://github.com/user-attachments/assets/ae730ef0-b0cc-46e0-b2be-096d384e89b3" />
+![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=flat-square)
+![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-Universal%20Silicon%20%26%20Intel-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
+![Format](https://img.shields.io/badge/Format-Standalone-00CED1?style=flat-square)</p>
+
+---
+
+<img width="1440" height="868" alt="VINC3 preview" src="https://github.com/user-attachments/assets/a0fbe069-f453-4489-9bcb-75d41733888b" />
 
 ---
 
@@ -19,7 +21,7 @@
 - **Metering Modules**: High Precision monitoring suite.
 - **Standalone**: Runs as a native application on macOS (Sonoma, Sequoia, Tahoe) without a browser.
 - **Zero Dependencies**: Fully offline capable. No internet connection required.
-- **Minimalist UI**: Dark-themed, high-contrast interface optimized for low-light studio environments.
+- **Minimalist UI**: Dark-themed, high-contrast interface optimized for low-light studio environments. 5 themes available.
 
 ---
 
@@ -51,9 +53,10 @@
 
 ## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
-1. Download the latest [`VINC3.app.zip`](https://github.com/DeobfuscateMusic/VINC3/releases/download/VINC3-0.9.9/VINC3.app.zip)
+1. Download the latest [`VINC3.zip`](https://github.com/DeobfuscateMusic/VINC3/releases/tag/VINC3_1.0.0)
 2. Extract & Drag `VINC3` to your `Applications` folder.
 - _Note : Follow the macOS Permissions tutorial below for first-time setup, before use and before applying step 3._
+3. Launch `VINC3`, `Allow` Microphone capture.
 3. Select your audio source `MIC` or `SYSTEM`
 4. Click on `INITIALIZE`. It will start the engine.
 
@@ -65,11 +68,11 @@ To function as a standalone analyzer. `VINC3` requires specific system access. M
 
 ### 𝟏. 𝐌𝐢𝐜𝐫𝐨𝐩𝐡𝐨𝐧𝐞 𝐀𝐜𝐜𝐞𝐬𝐬
 Required to analyze audio from your interface or built-in mic.
-- `System Settings` > `Privacy & Security` > `Microphone` > Enable `VINC3`.
+- `System Settings` > `Privacy & Security` > `Microphone` > Add `VINC3`.
 
 ### 𝟐. 𝐒𝐜𝐫𝐞𝐞𝐧 𝐑𝐞𝐜𝐨𝐫𝐝𝐢𝐧𝐠
 Required for **System Audio Loopback** (capturing audio from other softwares).
-- `System Settings` > `Privacy & Security` > `Screen Recording` > Enable `VINC3`.
+- `System Settings` > `Privacy & Security` > `Screen Recording` > Add `VINC3`.
 
 - _Reminder: `VINC3` does not record a single pixel. It doesn't record audio. It doesn't record video. It doesn't require Internet. These permissions are macOS requirements for internal audio routing._
 
