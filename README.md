@@ -1,6 +1,6 @@
 <p align="center"><img width="355" height="139" alt="VINC3_Banner" src="https://github.com/user-attachments/assets/73fdd804-39a1-4f99-a755-65c8733fd34f" /></p>
 
- _<p align="center">Spectral Analysis & DSP Metering Suite. Frequency visualization and precision audio monitoring._</p>
+ _<p align="center">Spectral Analysis & DSP Metering. Frequency Visualization & Precision Audio Monitoring._</p>
 
 ---
 
