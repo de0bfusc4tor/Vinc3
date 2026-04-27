@@ -53,8 +53,8 @@ https://github.com/user-attachments/assets/7ab03f56-2037-4e66-9a67-ac912e6d3599
 2. Extract & Drag `VINC3` to your `Applications` folder.
 - _Note : Follow the macOS Permissions tutorial below for first-time setup, before use and before applying step 3._
 3. Launch `VINC3`, `Allow` Microphone capture.
-3. Select your audio source `MIC` or `SYSTEM`
-4. Click on `INITIALIZE`. It will start the engine.
+4. Select your audio source `MIC` or `SYSTEM`
+5. Click on `INITIALIZE`. It will start the engine.
 
 ---
 
